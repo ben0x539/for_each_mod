@@ -1,0 +1,1 @@
+pub fn lol() -> &'static str { "lol this is mod2" }
